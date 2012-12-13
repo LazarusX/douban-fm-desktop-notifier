@@ -1,7 +1,7 @@
 {
   "name": "豆瓣电台桌面提醒助手",
   "version": "1.0",
-  "description": "为豆瓣电台开启桌面提醒功能",
+  "description": "为豆瓣电台网页版开启桌面提醒功能",
   "icons": {"16": "16.png", "48": "48.png", "128": "128.png"},
   "permissions": [
     "notifications"
