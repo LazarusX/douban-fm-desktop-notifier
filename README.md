@@ -10,6 +10,11 @@
 3. 登录豆瓣电台网页版 (http://douban.fm)
 4. 点击页面右上角的「打开提醒」
 5. 在弹出的banner中选择「允许」
+6. 效果如下截图显示
+	* OS X
+	![image](https://raw.github.com/LazarusX/douban-fm-desktop-notifier/master/screenshots/screenshot-mac.png)
+	* Windows
+	![image](https://raw.github.com/LazarusX/douban-fm-desktop-notifier/master/screenshots/screenshot-win.png) 	
 
 已知问题
 ---
