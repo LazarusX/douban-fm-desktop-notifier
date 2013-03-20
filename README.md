@@ -5,12 +5,11 @@
 
 用法
 ---
-1. 打开Chrome的扩展程序管理(chrome://chrome/extensions/)
-2. 将DoubanFM Desktop Notifier.crx文件拖入页面
-3. 登录豆瓣电台网页版 (http://douban.fm)
-4. 点击页面右上角的「打开提醒」
-5. 在弹出的banner中选择「允许」
-6. 效果如下截图显示
+1. 通过[Chrome Web Store](https://chrome.google.com/webstore/detail/%E8%B1%86%E7%93%A3%E7%94%B5%E5%8F%B0%E6%A1%8C%E9%9D%A2%E6%8F%90%E9%86%92%E5%8A%A9%E6%89%8B/jbeigmjecnpmdkmdgkmefbogjaggdakd)安装
+2. 登录豆瓣电台网页版 (http://douban.fm)
+3. 点击页面右上角的「打开提醒」
+4. 在弹出的banner中选择「允许」
+5. 效果如下截图显示
 	* OS X
 	![image](https://raw.github.com/LazarusX/douban-fm-desktop-notifier/master/screenshots/screenshot-mac.png)
 	* Windows
@@ -20,7 +19,6 @@
 ---
 1. 可能和其他豆瓣电台网页版的扩展或userscript产生冲突
 2. 必须登录豆瓣帐号后才可开启提醒
-3. 因本人尚未解决Chrome Web Store开发者帐号的支付问题，只能通过crx文件的方式安装，暂时不支持自动更新
 
 感谢
 ---
